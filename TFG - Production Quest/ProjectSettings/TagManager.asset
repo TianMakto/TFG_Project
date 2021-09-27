@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemies
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Obstacles
+  - Player
+  - Enemies
+  - Cover
+  - Destructibles
+  - EnviromentalDamage
+  - Hole
+  - HoleCollider
+  - EnemiesWorldCollider
+  - Spikes
+  - BortShield
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Destructibles
+    uniqueID: 2911421377
+    locked: 0
+  - name: Player
+    uniqueID: 2181960633
+    locked: 0
+  - name: Top
+    uniqueID: 1981725253
+    locked: 0
+  - name: Menus
+    uniqueID: 374962567
+    locked: 0

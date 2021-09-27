@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7539977110575993144
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5605720489949927056, guid: 1db76bdb71a074640a5a8b74ac99fb96,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5605720489949927056, guid: 1db76bdb71a074640a5a8b74ac99fb96,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5605720489949927056, guid: 1db76bdb71a074640a5a8b74ac99fb96,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.24658203
+      objectReference: {fileID: 0}
+    - target: {fileID: 5605720489949927056, guid: 1db76bdb71a074640a5a8b74ac99fb96,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5605720489949927056, guid: 1db76bdb71a074640a5a8b74ac99fb96,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5605720489949927056, guid: 1db76bdb71a074640a5a8b74ac99fb96,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5605720489949927056, guid: 1db76bdb71a074640a5a8b74ac99fb96,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5605720489949927056, guid: 1db76bdb71a074640a5a8b74ac99fb96,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5605720489949927056, guid: 1db76bdb71a074640a5a8b74ac99fb96,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5605720489949927056, guid: 1db76bdb71a074640a5a8b74ac99fb96,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5605720489949927056, guid: 1db76bdb71a074640a5a8b74ac99fb96,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5605720489949927061, guid: 1db76bdb71a074640a5a8b74ac99fb96,
+        type: 3}
+      propertyPath: m_Name
+      value: Add Poisonous Bullet Mod Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 5605720489949927062, guid: 1db76bdb71a074640a5a8b74ac99fb96,
+        type: 3}
+      propertyPath: behaviour
+      value: 
+      objectReference: {fileID: 5527190983752159455, guid: a518d571b30ee0c4a92ea3b8157bb7fe,
+        type: 3}
+    - target: {fileID: 5605720489949927062, guid: 1db76bdb71a074640a5a8b74ac99fb96,
+        type: 3}
+      propertyPath: m_textToWrite
+      value: Poisonous Bullet Mod
+      objectReference: {fileID: 0}
+    - target: {fileID: 5605720489949927062, guid: 1db76bdb71a074640a5a8b74ac99fb96,
+        type: 3}
+      propertyPath: m_behavToSearch
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5605720489949927063, guid: 1db76bdb71a074640a5a8b74ac99fb96,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5605720489949927063, guid: 1db76bdb71a074640a5a8b74ac99fb96,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5605720489949927063, guid: 1db76bdb71a074640a5a8b74ac99fb96,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5605720489949927063, guid: 1db76bdb71a074640a5a8b74ac99fb96,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: f0720256bb00c6c4b896f6020ebe6fa6,
+        type: 3}
+    - target: {fileID: 8953604860769148883, guid: 1db76bdb71a074640a5a8b74ac99fb96,
+        type: 3}
+      propertyPath: m_textInfo.characterCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953604860769148883, guid: 1db76bdb71a074640a5a8b74ac99fb96,
+        type: 3}
+      propertyPath: m_textInfo.wordCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953604860769148883, guid: 1db76bdb71a074640a5a8b74ac99fb96,
+        type: 3}
+      propertyPath: m_textInfo.lineCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953604860769148883, guid: 1db76bdb71a074640a5a8b74ac99fb96,
+        type: 3}
+      propertyPath: m_textInfo.pageCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953604860968992762, guid: 1db76bdb71a074640a5a8b74ac99fb96,
+        type: 3}
+      propertyPath: m_textInfo.characterCount
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953604860968992762, guid: 1db76bdb71a074640a5a8b74ac99fb96,
+        type: 3}
+      propertyPath: m_textInfo.spaceCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953604860968992762, guid: 1db76bdb71a074640a5a8b74ac99fb96,
+        type: 3}
+      propertyPath: m_textInfo.wordCount
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953604860968992762, guid: 1db76bdb71a074640a5a8b74ac99fb96,
+        type: 3}
+      propertyPath: m_textInfo.lineCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953604860968992762, guid: 1db76bdb71a074640a5a8b74ac99fb96,
+        type: 3}
+      propertyPath: m_textInfo.pageCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953604861066796191, guid: 1db76bdb71a074640a5a8b74ac99fb96,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1db76bdb71a074640a5a8b74ac99fb96, type: 3}
